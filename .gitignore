@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+
+# Local secrets — NEVER push this
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
